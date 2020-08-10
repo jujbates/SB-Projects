@@ -1,4 +1,4 @@
-# sb-mini-projects
+# SB-Projects
 Springboard Demos, Examples, Mini Projects, and Case Studies
 
 1. mini-project-api-data-wrangling
