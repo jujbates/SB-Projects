@@ -1,5 +1,5 @@
 # SB-Projects
-Springboard Demos, Examples, Mini Projects, and Case Studies
+Springboard Case Studies, Mini Projects, Demos, and Examples
 
 ### Case Studies
 1. case-study-monalco-problem-statement
