@@ -1,4 +1,8 @@
 # sb-mini-projects
-Springboard Demos and Mini Projects
+Springboard Demos, Examples, Mini Projects, and Case Studies
 
-1. api_data_wrangling_mini_project
+1. mini-project-api-data-wrangling
+2. demo-pandas-profiling-data-wrangling
+3. Python-Data-Science-Handbook-Examples
+4. case-study-sql-country-club
+
