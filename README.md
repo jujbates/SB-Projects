@@ -1,5 +1,5 @@
 # SB-Projects
-Springboard Case Studies, Mini Projects, Demos, and Examples
+Springboard Case Studies, Mini Projects, and Demo Examples.
 
 ### Case Studies
 1. case-study-monalco-problem-statement
@@ -9,7 +9,7 @@ Springboard Case Studies, Mini Projects, Demos, and Examples
 ### Mini Projects
 1. mini-project-api-data-wrangling
 
-### Demo/Examples
+### Demo Examples
 1. demo-pandas-profiling-data-wrangling
-2. Python-Data-Science-Handbook-Examples
+2. demo-python-data-science-handbook
 
