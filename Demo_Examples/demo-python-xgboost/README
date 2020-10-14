@@ -1,5 +1,10 @@
 ## How to Develop Your First XGBoost Model in Python with scikit-learn
 From: https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 Post By: Jason Brownlee
+file: xgboost_tutorial.ipynb
 
-
+## Gradient Boosting from scratch
+From: https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+& From: https://www.kaggle.com/grroverpr/gradient-boosting-simplified/
+By: Prince Grover
+gradient_boosting_scratch.ipynb
